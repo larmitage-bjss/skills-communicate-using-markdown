@@ -18,3 +18,7 @@
 var myVariable = 123;
 string stringVar = myVariable.toString();
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
